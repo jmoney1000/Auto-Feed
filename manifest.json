@@ -1,0 +1,9 @@
+{
+    "name": "Auto Feed,
+    "version_number": "0.7.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/985",
+    "description": "Lets tameable animals eat from nearby containers.",
+    "dependencies": [
+        "MythicManiac-TestMod-1.1.0"
+    ]
+}
